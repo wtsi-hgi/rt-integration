@@ -1,3 +1,5 @@
+#!/usr/bin/perl 
+#
 # Copyright (c) 2014 Genome Research Ltd.
 #
 # Author: Joshua C. Randall <jcrandall@alum.mit.edu>
@@ -17,7 +19,6 @@
 # You should have received a copy of the GNU General Public License along with
 # this program. If not, see <http://www.gnu.org/licenses/>.
 #
-#!/usr/bin/perl 
 
 use strict;
 use warnings;
