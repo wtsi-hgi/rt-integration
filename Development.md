@@ -1,4 +1,5 @@
-== Development ==
+Development
+-----------
 
 To develop and test within the docker container (sorting out prerequisities using the Dockerfile), you could run a command like:
 
